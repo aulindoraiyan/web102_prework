@@ -22,11 +22,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+h
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,10 +35,13 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. Understanding how to retrieve data from JSON file.
+2. Finding the secret components key.
+3. Figuring out how to upload the gif
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Raiyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
