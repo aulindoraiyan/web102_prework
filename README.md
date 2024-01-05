@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-h
+1. Shows the game stats in the dashboard at the top of the Sea Monster website.
+2. The "Show Unfunded Only" and "Show Funded Only" buttons shows filtered versions of the game list.
+   
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
