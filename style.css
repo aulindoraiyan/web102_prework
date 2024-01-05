@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-content: stretch;
+    align-items: normal;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+.stats-container:hover{
+    background-color: lightblue;
 }
 
 .stats-card {
@@ -39,23 +46,29 @@ body {
 #games-container {
     display: flex;
     flex-wrap: wrap;
+
     justify-content: space-around;
 }
 
 .game-img {
-    width: 100%;
+    width: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #e2d6d6;
     padding: 1%;
     margin: 1%;
     width: 300px;
     text-align: center;
     border-radius: 7px;
 }
+
+.game-card img{
+    width: 100%;
+}
+
 
 .game-card:hover {
     cursor: pointer;
@@ -65,6 +78,8 @@ body {
 #button-container {
     text-align: center;
 }
+
+
 
 button {
     font-family: 'Cabin';
